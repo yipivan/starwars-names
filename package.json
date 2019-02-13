@@ -1,0 +1,27 @@
+{
+  "name": "starwars-namesss",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yipivan/startwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Ivan Yip <ivan_yip@msn.com> (https://github.com/yipivan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yipivan/startwars-names/issues"
+  },
+  "homepage": "https://github.com/yipivan/startwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.1"
+  }
+}
